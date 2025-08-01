@@ -1,1 +1,1 @@
-<dantesideas>.github.io.
+<thegallery>.github.io.
