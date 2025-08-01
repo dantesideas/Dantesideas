@@ -1,1 +1,1 @@
-<yourusername>.github.io.
+<dantesideas>.github.io.
